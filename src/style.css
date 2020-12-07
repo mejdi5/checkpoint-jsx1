@@ -1,0 +1,21 @@
+*{background-color: steelblue;}
+
+.title{width: 150px;
+       text-align: center;
+       margin-left: 50%;}
+    
+.red{background-color: red;
+     color: seagreen;
+     }
+
+.Image{width: 320px;
+       height: 240px;
+       margin-left: 45%;
+       margin-bottom: 20px;}
+
+.Photo{width: 320px;
+       height: 240px;
+       margin-left: 45%;
+       margin-bottom: 20px;}
+
+.video{margin-left: 45%;}
